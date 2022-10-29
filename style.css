@@ -1,0 +1,25 @@
+#deleting{
+    height: 30px;
+    color: white;
+    background-color: black;
+}
+li{
+    background-color: #ddd;
+    color: blue;
+    margin: 8px;
+    width: 120px;
+
+    margin: 10px;
+    
+}
+a{
+    color: red;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.btn1{
+    color: white;
+    background-color: rgb(49, 181, 181);
+    height: 30px;
+    border: 1px solid  rgb(49, 181, 181);
+}
